@@ -1,0 +1,13 @@
+[
+    {
+      "ID": 123,
+      "Name": "Abstract Galaxy",
+      "Description": "A mesmerizing abstract depiction of a galaxy.",
+      "ThumbNailUrl": "https://example.com/thumbnails/abstract-galaxy-thumb.jpg",
+      "OriginalDrawingUrl": "https://example.com/originals/abstract-galaxy.jpg",
+      "DrawingCreated": "2024-03-30",
+      "Categories": "Abstract, Space",
+      "Genre": "Artistic",
+      "Amoled": true
+    } 
+]
