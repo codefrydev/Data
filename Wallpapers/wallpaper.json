@@ -1,12 +1,12 @@
 [
     {
       "ID": 123,
-      "Name": "Abstract Galaxy",
-      "Description": "A mesmerizing abstract depiction of a galaxy.",
-      "ThumbNailUrl": "https://example.com/thumbnails/abstract-galaxy-thumb.jpg",
-      "OriginalDrawingUrl": "https://example.com/originals/abstract-galaxy.jpg",
+      "Name": "Hulk",
+      "Description": "Hulk ",
+      "ThumbNailUrl": "https://github.com/codefrydev/Data/blob/941c0c79a06d539f6115a680ad30efe25b8dedd3/Wallpapers/Abhijeet/hulk.JPG",
+      "OriginalDrawingUrl": "https://github.com/codefrydev/Data/blob/941c0c79a06d539f6115a680ad30efe25b8dedd3/Wallpapers/Abhijeet/hulk.JPG",
       "DrawingCreated": "2024-03-30",
-      "Categories": "Abstract, Space",
+      "Categories": "Super hero",
       "Genre": "Artistic",
       "Amoled": true
     } 
