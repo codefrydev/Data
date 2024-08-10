@@ -20,5 +20,16 @@
     "Categories": "Flower",
     "Genre": "Flora",
     "Amoled": false
+  },
+  {
+    "ID": 1,
+    "Name": "Green Stomintos",
+    "Description": "It grows on the dead",
+    "ThumbNailUrl": "https://raw.githubusercontent.com/codefrydev/Data/941c0c79a06d539f6115a680ad30efe25b8dedd3/Wallpapers/Abhijeet/cactie.PNG",
+    "OriginalDrawingUrl": "https://raw.githubusercontent.com/codefrydev/Data/941c0c79a06d539f6115a680ad30efe25b8dedd3/Wallpapers/Abhijeet/cactie.PNG",
+    "DrawingCreated": "2024-03-30",
+    "Categories": "Flower",
+    "Genre": "Flora",
+    "Amoled": false
   }
 ]
