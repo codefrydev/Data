@@ -1,8 +1,14 @@
 {
-  "urls": [
+  "categories": [
     {
-      "name": "Marketing",
-      "url": "https://example.com".
+      "id": "1",
+      "name": "Productivity",
+      "description": "Prompts related to time management and efficiency",
+      "icon": "fa-clock",
+      "color": "#FF5733",
+      "promptCount": 25,
+      "sortOrder": 1,
+      "filePathName": "data.jon"
     }
   ]
 }
