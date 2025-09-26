@@ -9,6 +9,26 @@
       "promptCount": 25,
       "sortOrder": 1,
       "filePathName": "data.json"
+    },
+    {
+      "id": "2",
+      "name": "Marketing",
+      "description": "Prompts related to Marketing",
+      "icon": "fa-clock",
+      "color": "#FF5733",
+      "promptCount": 25,
+      "sortOrder": 1,
+      "filePathName": "marketing.json"
+    },
+    {
+      "id": "3",
+      "name": "Development",
+      "description": "Prompts related to Developer",
+      "icon": "fa-clock",
+      "color": "#FF5733",
+      "promptCount": 25,
+      "sortOrder": 1,
+      "filePathName": "development.json"
     }
   ]
 }

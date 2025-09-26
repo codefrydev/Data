@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "Product Launch Email Campaign",
+    "content": "Create a comprehensive email marketing campaign for a new product launch. Include:\n\n1. A series of 5 emails (teaser, announcement, features, testimonials, final call)\n2. Subject lines optimized for open rates\n3. Compelling CTAs for each email\n4. Personalization strategies\n5. A/B testing suggestions\n\nTarget audience: [Define your audience]\nProduct: [Describe your product]\nLaunch date: [Specify date]\nKey selling points: [List main benefits]",
+    "category": "marketing",
+    "description": "Create comprehensive email marketing campaigns for product launches",
+    "tags": ["email", "campaign", "product launch"],
+    "author": "PromptVault Team",
+    "difficulty": "intermediate",
+    "usageNotes": "Replace bracketed placeholders with your specific information. Consider your brand voice when implementing.",
+    "estimatedTime": "15-30 minutes",
+    "createdAt": "2024-01-15T00:00:00Z",
+    "updatedAt": "2024-01-15T00:00:00Z",
+    "usageCount": 45,
+    "averageRating": 4.2,
+    "isPublic": true,
+    "placeholders": []
+  }
+]
