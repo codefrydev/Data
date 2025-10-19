@@ -9,6 +9,16 @@
       "promptCount": 25,
       "sortOrder": 2,
       "filePathName": "image.json"
+    },
+    {
+      "id": "cd34d71b-0af4-4c22-b520-59bd9f641bc6",
+      "name": "Git Command",
+      "description": "Prompts Related to Git Command",
+      "icon": "fa-clock",
+      "color": "#3a8da6ff",
+      "promptCount": 25,
+      "sortOrder": 2,
+      "filePathName": "gitcommand.json"
     }
   ]
 }

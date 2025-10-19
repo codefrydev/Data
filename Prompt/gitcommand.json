@@ -1,0 +1,33 @@
+[
+  {
+    "Id": "0fd33eb3-f386-446c-83c6-fe782193a073",
+    "Title": "Git Commit Stats by Author",
+    "Content": "$stats = @{}\n\ngit log --pretty=\u0022Author:%an\u0022 --numstat | ForEach-Object {\n    if ($_ -match \u0022^Author:(.\u002B)$\u0022) {\n        $author = $matches[1].Trim()\n        if (-not $stats.ContainsKey($author)) {\n            $stats[$author] = [PSCustomObject]@{\n                Author  = $author\n                Commits = 0\n                Added   = 0\n                Removed = 0\n            }\n        }\n        $stats[$author].Commits\u002B\u002B\n    }\n    elseif ($_ -match \u0022^\\d\u002B\\s\u002B\\d\u002B\u0022) {\n        $parts = $_ -split \u0022\\s\u002B\u0022\n        $stats[$author].Added   \u002B= [int]$parts[0]\n        $stats[$author].Removed \u002B= [int]$parts[1]\n    }\n}\n\n$stats.Values |\nSelect-Object Author, Commits, Added, Removed,\n    @{Name=\u0022Total\u0022; Expression={ $.Added \u002B $.Removed }} |\nSort-Object Commits -Descending |\nFormat-Table -AutoSize",
+    "Category": "gitcommand",
+    "Description": "A PowerShell script that analyzes the current Git repository and generates a summary of commits, lines added, and lines removed, grouped by author.",
+    "Tags": [
+      "powershell",
+      "git",
+      "stats",
+      "developer",
+      "reporting"
+    ],
+    "UsageCount": 0,
+    "AverageRating": 0,
+    "RatingCount": 0,
+    "CreatedAt": "2025-10-19T16:46:57.439Z",
+    "UpdatedAt": "2025-10-19T16:46:57.439Z",
+    "IsPublic": true,
+    "Author": "PrashantUnity",
+    "Difficulty": "intermediate",
+    "Placeholders": [
+      "1",
+      "$author",
+      "PSCustomObject",
+      "int",
+      "0"
+    ],
+    "UsageNotes": "Run this script in a PowerShell terminal from within a Git repository\u0027s directory. It requires \u0027git\u0027 to be installed and accessible in your system\u0027s PATH.",
+    "EstimatedTime": "5-10 minutes"
+  }
+]
