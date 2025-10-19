@@ -1,1 +1,14 @@
-{"categories":[{"id":"5cfc1d6d-6fd3-4fd8-a9ee-07d8280a33fb","name":"Productivity","description":"Prompts related to time management and efficiency","icon":"fa-clock","color":"#FF5733","promptCount":25,"sortOrder":1,"filePathName":"data.json"},{"id":"95f96f5d-3486-46dd-ab74-0f5b959a721c","name":"Marketing","description":"Prompts related to Marketing","icon":"fa-clock","color":"#FF5733","promptCount":25,"sortOrder":1,"filePathName":"marketing.json"},{"id":"d9bcf363-68f4-473b-a5c7-646cd3473b30","name":"Development","description":"Prompts related to Developer","icon":"fa-clock","color":"#FF5733","promptCount":25,"sortOrder":1,"filePathName":"development.json"},{"id":"a1d01635-830e-4098-8e5b-ee97fa035370","name":"Asp Net Blazor","description":"Prompts Related to balzor web Application","icon":"fa-clock","color":"#3258b8ff","promptCount":25,"sortOrder":2,"filePathName":"blazor.json"},{"id":"df500521-0cb5-4fca-8fc1-f697723160a7","name":"Generate Image","description":"Prompts Related to Image Generation","icon":"fa-clock","color":"#3258b8ff","promptCount":25,"sortOrder":2,"filePathName":"image.json"}]}
+{
+  "categories": [
+    {
+      "id": "9d6c4cbf-1b53-4277-9377-69dcb14e9ad8",
+      "name": "Generate Image",
+      "description": "Prompts Related to Image Generation",
+      "icon": "fa-clock",
+      "color": "#3a8da6ff",
+      "promptCount": 25,
+      "sortOrder": 2,
+      "filePathName": "image.json"
+    }
+  ]
+}

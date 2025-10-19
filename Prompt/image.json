@@ -1,1 +1,33 @@
-[{"id":"123","title":"create earth cake piece","content":"create a stylish, hyper-realistic [x:y] poster of a post-apocalyptic\n[city] as a square diorama. the scene features ruined landmarks,\nlayered terrain with exposed soil, water, and rocks for depth, and\novergrown plants reclaiming the city. integrate the city\u0027s name \u0027[city]\u0027\nin sleek 3d white letters, blending organically into the landscape. use\na cinematic, moody aesthetic-cracked structures, subtle fog, and\ndynamic lighting to make the decay feel dramatic yet elegant. place\nthe diorama on a clean white background for contrast. ultra-detailed,\nhigh-resolution.","category":"development","description":"generate a piece of city like it cake","tags":["earth"],"author":"prompt generator","difficulty":"beginner","estimatedTime":null,"createdAt":"0001-01-01T00:00:00","updatedAt":"0001-01-01T00:00:00","usageCount":0,"averageRating":0,"isPublic":false,"placeholders":["x:y","city"],"usageNotes":null}]
+[
+  {
+    "Id": "01eb51ca-3b6f-4d59-b15c-f4788bf069eb",
+    "Title": "Post-Apocalyptic City Diorama Poster",
+    "Content": "Create a stylish, hyper-realistic [x:y] poster of a post-apocalyptic\n[city] as a square diorama. the scene features ruined landmarks,\nlayered terrain with exposed soil, water, and rocks for depth, and\novergrown plants reclaiming the city. integrate the city\u0027s name \u0027[city]\u0027\nin sleek 3d white letters, blending organically into the landscape. use\na cinematic, moody aesthetic-cracked structures, subtle fog, and\ndynamic lighting to make the decay feel dramatic yet elegant. place\nthe diorama on a clean white background for contrast. ultra-detailed,\nhigh-resolution.",
+    "Category": "generate-image",
+    "Description": "Generates a hyper-realistic, stylish poster of a post-apocalyptic city diorama, featuring detailed decay, natural reclamation, and integrated 3D text.",
+    "Tags": [
+      "post-apocalyptic",
+      "diorama",
+      "cityscape",
+      "hyper-realistic",
+      "cinematic",
+      "3d text",
+      "poster",
+      "concept art"
+    ],
+    "UsageCount": 0,
+    "AverageRating": 0,
+    "RatingCount": 0,
+    "CreatedAt": "2025-10-19T04:34:37.68Z",
+    "UpdatedAt": "2025-10-19T04:34:37.68Z",
+    "IsPublic": true,
+    "Author": "PrashantUnity",
+    "Difficulty": "intermediate",
+    "Placeholders": [
+      "x:y",
+      "city"
+    ],
+    "UsageNotes": "Replace [x:y] with your desired aspect ratio (e.g., \u00271:1\u0027 for a square, \u002716:9\u0027 for widescreen). Replace [city] with the name of the city you want to depict (e.g., \u0027New York\u0027, \u0027Tokyo\u0027, \u0027London\u0027).",
+    "EstimatedTime": "5-10 minutes"
+  }
+]
